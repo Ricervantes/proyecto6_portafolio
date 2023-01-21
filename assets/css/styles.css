@@ -112,8 +112,8 @@ nav ul li {
 }
 
 .hero img {
-  height: 37.5rem;
-  width: 37.5rem;
+  height: 18rem;
+  width: 18rem;
   border-radius: 22rem;
 }
 
@@ -365,7 +365,7 @@ footer {
   }
 
   .hero {
-    margin-top: -4rem;
+    margin-top: -10rem;
     flex-direction: column;
     gap: 0;
   }
